@@ -1,6 +1,6 @@
 # CIS350-HW2-Neiheisel
-#Jacob Neihiesel
-###Interests
+# Jacob Neihiesel
+### Interests
 *GPS/Navigation as it relates to automobiles and movement characteristics
 *Aviation and building model planes
 *Making games using P5JS/Java
@@ -10,7 +10,7 @@
 *Watching sports
 *Autonomous vehicles
 *Progrmming robots/things that move autonomously
-###Technical Background
+### Technical Background
 *Programming in Java (since January 2020 to present)
 *Programming in Python (since January 2021 to present)
 *Limited experience in Git. 
@@ -25,5 +25,5 @@
 *Took programming class in High School using P5JS (Intro to Programming), took AP Computer Science Principles (similar to GV CIS 101) in senior year, and took Robotics class using VEX robots. 
 *Been making websites since Summer 2015, but don't do so as frequently any more
 *Experienced using Lego Mindstorms EV3 and NXT robots, but ony using GUI-based Lego software.
-###Awesome Meme
-https://pbs.twimg.com/media/EKGOf9eXYAADFfX?format=png&name=900x900
+### Awesome Meme
+One awesome meme (or mem as the British seem to think it is) can be found here: [on Twitter] (https://pbs.twimg.com/media/EKGOf9eXYAADFfX?format=png&name=900x900).
