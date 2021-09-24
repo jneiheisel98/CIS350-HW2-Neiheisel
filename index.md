@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jneiheisel98/CIS350-HW2-Neiheisel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jneiheisel98/CIS350-HW2-Neiheisel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# CIS350-HW2-Neiheisel
+# Jacob Neihiesel
+### Interests
+* GPS/Navigation as it relates to automobiles and movement characteristics
+* Aviation and building model planes
+* Making games using P5JS/Java
+* Being relatively fit - I have been known to wake up and workout, bike, or toss a football/firisbee around
+* Working with other electronic parts to make something exciting
+* Yardwork
+* Watching sports
+* Autonomous vehicles
+* Progrmming robots/things that move autonomously
+### Technical Background
+* Programming in Java (since January 2020 to present)
+* Programming in Python (since January 2021 to present)
+* Limited experience in Git. 
+* Programming using P5JS (since January 2019 to August 2020)
+* Programming using C++ (since January 2020 to March 2020)
+* Programming using Arduino Language (since August 2018 to July 2020)
+* Using GameMaker to make a 2D game (since July 2019 to present)
+* Using Atmosphir to make a 3D game (since July 2019 to present)
+* Using MCreator for Minecraft Mods (since July 2018 to August 2018)
+* Programmed an arduino that contolled a whole autonomous modified Power Wheels Jeep for Square One Robotics in 2019-2020 school year
+* Lead Programmer for FIRST Robotics Team 8179: The RoboFalcons in 2020 season
+* Took programming class in High School using P5JS (Intro to Programming), took AP Computer Science Principles (similar to GV CIS 101) in senior year, and took Robotics class using VEX robots. 
+* Been making websites since Summer 2015, but don't do so as frequently any more
+* Experienced using Lego Mindstorms EV3 and NXT robots, but ony using GUI-based Lego software.
+### Awesome Meme
+One awesome meme (or mem as the British seem to think it is) can be found here: [on Twitter](https://pbs.twimg.com/media/EKGOf9eXYAADFfX?format=png&name=900x900).
